@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sangram 👋
+**Full Stack AI Developer** · Lucknow, India
 
-<!--
-**sangram-7652/sangram-7652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and ship web apps with Laravel, React and Next.js, and use AI tools and automations to deliver faster.
 
-Here are some ideas to get you started:
+- 💼 Full Stack AI Developer at Binazy Pvt. Ltd.
+- 🚀 10+ live client websites shipped
+- 🤖 WhatsApp Business API chatbot for automated order booking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Laravel · PHP · MySQL · React · Next.js · TypeScript · Tailwind · Python · FastAPI · Docker
+**AI tools:** Claude Code · Cursor · n8n
+
+### Featured projects
+- [ExamPhotoFixer](https://github.com/sangram-7652/examphotofixer): in-browser exam photo tools (Next.js, Vitest, Playwright)
+- [Distance Education Learning](https://distanceeducationlearning.com): multi-tenant degree platform
+- [College Drishti](https://collegedrishti.com): college discovery portal
+
+📫 sangramsingh.dev@gmail.com · 🌐 [sangram.info](https://sangram.info) · [LinkedIn](https://www.linkedin.com/in/sangram-singh-yadav-a9485436b)
