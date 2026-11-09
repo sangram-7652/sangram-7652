@@ -8,6 +8,7 @@ I build and ship web apps with Laravel, React and Next.js, and use AI tools and 
 - 🤖 WhatsApp Business API chatbot for automated order booking
 
 **Stack:** Laravel · PHP · MySQL · React · Next.js · TypeScript · Tailwind · Python · FastAPI · Docker
+
 **AI tools:** Claude Code · Cursor · n8n
 
 ### Featured projects
